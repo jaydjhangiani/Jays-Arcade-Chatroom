@@ -12,7 +12,7 @@ const WelcomeScreen = ({ isOpen, toggle }) => {
             <ArrowBackIosIcon onClick={toggle} />
           </IconButton>
         </ShowSidebarButton>
-        <h4>Welcome To Jay's Arcade Chat Room</h4>
+        <h4>Welcome To The Retro Arcade Chat Room</h4>
       </WelcomeHeader>
       <WelcomeImg src={chatroom} />
     </WelcomeContainer>

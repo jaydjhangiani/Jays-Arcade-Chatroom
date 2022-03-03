@@ -19,7 +19,8 @@ function Login() {
       {/* <h1>Welcome to the Chat Room</h1> */}
       <FormContent>
         <Form action="#">
-          <FormH1>Jay's Arcade Chat Room</FormH1>
+          {/* <FormH1>Jay's Arcade Chat Room</FormH1> */}
+          <FormH1>The Reto Arcade Chat Room</FormH1>
           <FormLabel htmlFor="for">Email</FormLabel>
           <FormInput
             type="email"
